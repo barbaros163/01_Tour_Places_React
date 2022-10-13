@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barbaros163/tour_project_react/static/css/main.daed33bb.css",
+    "main.js": "/barbaros163/tour_project_react/static/js/main.9903c5cb.js",
+    "static/js/787.9dfa1395.chunk.js": "/barbaros163/tour_project_react/static/js/787.9dfa1395.chunk.js",
+    "index.html": "/barbaros163/tour_project_react/index.html",
+    "main.daed33bb.css.map": "/barbaros163/tour_project_react/static/css/main.daed33bb.css.map",
+    "main.9903c5cb.js.map": "/barbaros163/tour_project_react/static/js/main.9903c5cb.js.map",
+    "787.9dfa1395.chunk.js.map": "/barbaros163/tour_project_react/static/js/787.9dfa1395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daed33bb.css",
+    "static/js/main.9903c5cb.js"
+  ]
+}
