@@ -1,16 +1,13 @@
-import './App.scss';
-import Header from './components/Header/Header';
-import Main from './components/Main/Main';
-import Navbar from './components/Navbar/Navbar';
+import "./App.scss";
 
 const App = () => {
-  return(
+  return (
     <div className="App">
-      <Navbar/>
-      <Header/>
-      <Main/>
+      <Navbar />
+      <Header />
+      <Main />
     </div>
-  )
-}
+  );
+};
 
 export default App;
