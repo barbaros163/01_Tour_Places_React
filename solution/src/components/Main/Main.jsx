@@ -1,15 +1,14 @@
 import "./Main.scss";
 
 import { data } from "../../helper/data";
+import Card from "./Card";
 
 const Main = () => {
   return (
     <div className="card-container">
-      <h1>{data[0].title}</h1>
-      <h1>{data[1].title}</h1>
-      <h1>{data[2].title}</h1>
-      <h1>{data[3].title}</h1>
-      <h1>{data[4].title}</h1>
+      {data.map((item) => (
+        <Card {...item} />
+      ))}
     </div>
   );
 };
