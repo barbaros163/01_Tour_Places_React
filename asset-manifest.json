@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tour_project_react/static/css/main.daed33bb.css",
-    "main.js": "/tour_project_react/static/js/main.40981c74.js",
-    "static/js/787.9dfa1395.chunk.js": "/tour_project_react/static/js/787.9dfa1395.chunk.js",
-    "index.html": "/tour_project_react/index.html",
-    "main.daed33bb.css.map": "/tour_project_react/static/css/main.daed33bb.css.map",
-    "main.40981c74.js.map": "/tour_project_react/static/js/main.40981c74.js.map",
-    "787.9dfa1395.chunk.js.map": "/tour_project_react/static/js/787.9dfa1395.chunk.js.map"
+    "main.css": "/rc04_tour_places_project_react/static/css/main.2d575b60.css",
+    "main.js": "/rc04_tour_places_project_react/static/js/main.5ce87ab9.js",
+    "static/js/787.9dfa1395.chunk.js": "/rc04_tour_places_project_react/static/js/787.9dfa1395.chunk.js",
+    "index.html": "/rc04_tour_places_project_react/index.html",
+    "main.2d575b60.css.map": "/rc04_tour_places_project_react/static/css/main.2d575b60.css.map",
+    "main.5ce87ab9.js.map": "/rc04_tour_places_project_react/static/js/main.5ce87ab9.js.map",
+    "787.9dfa1395.chunk.js.map": "/rc04_tour_places_project_react/static/js/787.9dfa1395.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.daed33bb.css",
-    "static/js/main.40981c74.js"
+    "static/css/main.2d575b60.css",
+    "static/js/main.5ce87ab9.js"
   ]
 }
